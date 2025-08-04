@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\backend-development.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\backend-development.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\computer-networks.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\computer-networks.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\computer-skills.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\computer-skills.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\cyber-security.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\cyber-security.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\engineering-fundamentals.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\engineering-fundamentals.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\frontend-fundamentals.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\frontend-fundamentals.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\mobile-app.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\mobile-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\CategoriesIcons\\programming-fundamentals.png",
+      "PackagePath": "staticwebassets\\CategoriesIcons\\programming-fundamentals.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\backend.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\backend.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\cybersecurity.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\cybersecurity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\engineering.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\engineering.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\frontend.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\frontend.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\mobile-app.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\mobile-app.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\networks.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\networks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\programming.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\programming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\PopularCourses\\word-excel.jpg",
+      "PackagePath": "staticwebassets\\PopularCourses\\word-excel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\69382755-3944-421b-bef6-5c1852b0c6d4.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\69382755-3944-421b-bef6-5c1852b0c6d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\6c4b20ad-7ff9-4bad-aaa2-4959546d042b.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\6c4b20ad-7ff9-4bad-aaa2-4959546d042b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\6fe8551e-a430-4417-b505-0fda894833d9.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\6fe8551e-a430-4417-b505-0fda894833d9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\7da6e251-a12e-4273-8a5b-ceacc6d448ed.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\7da6e251-a12e-4273-8a5b-ceacc6d448ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\8045c8e2-615f-4c5e-bbe6-f4a8e4f10621.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\8045c8e2-615f-4c5e-bbe6-f4a8e4f10621.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\9770ff39-550a-437e-a00d-23b0c306a6e7.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\9770ff39-550a-437e-a00d-23b0c306a6e7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\a0109809-4f28-497c-b831-ac926e8a3904.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\a0109809-4f28-497c-b831-ac926e8a3904.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\a266352a-ee67-411d-b604-0614e9a45cb5.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\a266352a-ee67-411d-b604-0614e9a45cb5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\b31c8f7d-f9b2-4580-bfbf-036677653303.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\b31c8f7d-f9b2-4580-bfbf-036677653303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\b61b3b57-3317-4978-b89a-90a8c7c45a56.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\b61b3b57-3317-4978-b89a-90a8c7c45a56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\b7cc27b5-ae7e-4b76-bd2b-e948e1b9466f.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\b7cc27b5-ae7e-4b76-bd2b-e948e1b9466f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\c7da41b2-ba84-44e2-b746-1126057912df.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\c7da41b2-ba84-44e2-b746-1126057912df.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\cd0e2b42-b3e1-4e07-b364-bcf161edb303.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\cd0e2b42-b3e1-4e07-b364-bcf161edb303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\d1547695-c14b-41e3-b6e7-f9e82c980b81.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\d1547695-c14b-41e3-b6e7-f9e82c980b81.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\d5224783-2ca7-4a29-afe6-083ac7cf4301.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\d5224783-2ca7-4a29-afe6-083ac7cf4301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\e5f410e4-d5e5-4bc5-baa4-1078b99a7c39.jpeg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\e5f410e4-d5e5-4bc5-baa4-1078b99a7c39.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Backend\\Unlogy\\backend\\Unlogy\\wwwroot\\ProjectIcons\\f1e261d2-a445-454b-a41f-22780f436854.jpg",
+      "PackagePath": "staticwebassets\\ProjectIcons\\f1e261d2-a445-454b-a41f-22780f436854.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Unlogy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Unlogy.props",
+      "PackagePath": "build\\Unlogy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Unlogy.props",
+      "PackagePath": "buildMultiTargeting\\Unlogy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Unlogy.props",
+      "PackagePath": "buildTransitive\\Unlogy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
